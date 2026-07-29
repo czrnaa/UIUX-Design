@@ -6,4 +6,4 @@
 - 2 circles
 - Rename every layer.
 
-ps. don't worry too much!
+> Tip. Don't worry too much about technicalities
