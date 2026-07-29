@@ -10,6 +10,6 @@ Here's the link to view:
 <p align="center">
 <img src="screenshots/pages.png" alt="Pages" width="200"><br>
 <img src="screenshots/layers.png" alt="Layers" width="200"><br>
-<img src="screenshots/interface.png" alt="Interface" width="500"><br>
-<img src="screenshots/mini-project.png" alt="Mini Project" width="500"><br>
+<img src="screenshots/interface.png" alt="Interface" width="600"><br>
+<img src="screenshots/mini-project.png" alt="Mini Project" width="600"><br>
 </p>
