@@ -25,5 +25,5 @@ Change master. Everything updates. Magic.
 
 Now you'll see `Purple outline.` That's a component.
 <p align="center">
-<img src="../../assets/images/myfirstcomponent.png" alt"My-First-Component" width="350">
+<img src="../../assets/images/myfirstcomponent.png " alt"My-First-Component" width="350">
 </p>
