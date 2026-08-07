@@ -31,7 +31,3 @@ Prototype
 ↓
 Test
 ```
-
-## Mini Project
-
-Redesign a university portal by applying the complete UX process.
