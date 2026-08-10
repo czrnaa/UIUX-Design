@@ -1,15 +1,40 @@
 # Design Tokens
 
-Suppose I tell you `Make this card's radius 8px.` That's a value.
+Imagine your file contains this color 400 times: `#2563EB`
 
-But what if I instead tell you `Use radius-md.` Now we have a token.
+Then the company your in rebrands.
+
+*New primary: `#6750A4`*. Have fun changing 400 objects.
+
+Instead, we introduce **abstraction**.
 
 ```
-radius-sm = 4px
-radius-md = 8px
-radius-lg = 16px
-radius-full = 9999px
+#2563EB
+↓
+blue-600
+↓
+color-action-primary
+↓
+Primary Button
 ```
+
+These layers have different jobs.
+
+|Types of Token|Description|
+|--------------|-----------|
+|Primitive token|blue-600, gray-900, space-4|
+|Semantic token|color-action-primary, color-text-primary, color-surface-danger|
+
+That's powerful because: `color-action-primary` could point to blue today and purple next year. **The meaning remains the same.**
+
+In terms of programming, this might help you understand this:
+
+|Token Type|Topic|Example|
+|---------|--------|----|
+|Primitive|Hardcoded|`background = #2563EB`|
+|Semantic|Conceptually|`background = actionPrimary`|
+
+> Same reason developers avoid magic values.
 
 ## Why bother?
 
@@ -21,4 +46,4 @@ With tokens:
 - radius-md
 - 8px → 10px
 
-> ***The system changes.***
+> *The system changes.*
