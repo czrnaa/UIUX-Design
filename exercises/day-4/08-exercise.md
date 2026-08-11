@@ -68,7 +68,7 @@ Build a 12-Column Desktop Grid
 ## 4. Now actually use the grid
 
   - Don't stop after creating it. 
-  - **Mini Challange**: Create some rectangles with `R`. Try making a sidebar that occupies approximately 3 columns:
+  - **Mini Challenge**: Create some rectangles with `R`. Try making a sidebar that occupies approximately 3 columns:
 
     ```
     ┌───────────────┬─────────────────────────────────────┐
