@@ -2,7 +2,7 @@
 
 Here's your scenario.
 
-Orbit needs users to choose their university year: `Year ???`
+Manager needs users to choose their university year: `Year ???`
 
 You could use:
 
