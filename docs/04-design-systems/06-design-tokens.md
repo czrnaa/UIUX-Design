@@ -1,5 +1,9 @@
 # Design Tokens
 
+A design token is a named value representing a reusable design decision, such as a color, spacing, typography, or radius value. Basically giving it meaningful names for other members of the team or company to understand.
+
+---
+
 Imagine your file contains this color 400 times: `#2563EB`
 
 Then the company your in rebrands.
