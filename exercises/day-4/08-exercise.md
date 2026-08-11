@@ -205,3 +205,9 @@ shared alignment
 ```
 
 That's the main thing you should observe during this exercise: **columns aren't decoration**—they give your interface an underlying structure.
+
+---
+
+### Note
+
+If you need a reference or answer key, to go `exercises/day-4/answer-key/08-ans.md`
