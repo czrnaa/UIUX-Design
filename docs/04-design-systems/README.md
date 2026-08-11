@@ -155,3 +155,7 @@ Now every screen follows the same visual language.
 A **design system is more than a collection of components**. It is a shared set of rules and reusable building blocks that helps teams create consistent experiences across an entire product.
 
 The goal isn't simply to make designs look the same—it is to make design decisions **intentional, reusable, and scalable**.
+
+## Figma Link
+
+Access and view my Figma Playground on Design Systems [<u>here</u> :)](https://www.figma.com/design/gICsJR3ZKJiOllS4sf5HRv/Design-Systems-Lab?node-id=4-11&p=f&t=YaZ3ph6yF3wZUBSq-0)
