@@ -1,7 +1,9 @@
 # Components States
 
+Component states are the different visual or functional conditions a UI component can have depending on user interaction or system status.
+
 Here's a button:
-<p align="center">
+<p align="left">
 <img src="../../assets/images/button-sample.png" alt="Sample Button" width="150">
 </p>
 
@@ -18,14 +20,14 @@ A user can:
 
 Therefore you might need:
 
-- Default
-- Hover
-- Focus
-- Pressed
-- Loading
-- Disabled
+- **Default** - Normal appearance before interaction
+- **Hover** - When the pointer is over the component
+- **Focus** - When the component is selected through keyboard navigation or other input
+- **Pressed** - While the user is clicking or pressing it
+- **Loading** - While an action is being processed
+- **Disabled** - When the component cannot currently be interacted with
 
-Here's a [<u>link</u>](https://www.youtube.com/watch?v=ReNbXhaL3Xk) that might help.
+> Reference: Here's a [<u>link</u>](https://www.youtube.com/watch?v=ReNbXhaL3Xk) that might help.
 
 ## Important distinction
 

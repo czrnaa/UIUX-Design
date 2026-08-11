@@ -1,6 +1,9 @@
 # Components
 
-Open Figma and create a draft named **Design Systems Lab**.
+A component in Figma is a **reusable design element** that you create once and reuse throughout your design.
+
+
+## Open Figma and create a draft named **Design Systems Lab**.
 
 With Pages:
 
